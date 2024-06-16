@@ -1,0 +1,13 @@
+ADD	Toy	toy1	black	001	66.66
+ADD	Toy	Toy2	white	002	77.77
+ADD	Book	book1	Cagan	003	50.99
+DISPLAY
+ADD	Stationery	stationery0	notebook	004	100.25
+SEARCHBYBARCODE	003
+SEARCHBYNAME	toy2
+ADD	Book	AnimalFarm	Orwell	005	109.99
+REMOVE	000
+DISPLAY
+REMOVE	003
+ADD	Stationery	stationery1	book	007	190.88
+DISPLAY

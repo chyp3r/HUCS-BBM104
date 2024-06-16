@@ -1,0 +1,31 @@
+INVENTORY:
+Author of the book1 is Cagan. Its barcode is 003 and its price is 50.99
+Color of the toy1 is black. Its barcode is 001 and its price is 66.66
+Color of the Toy2 is white. Its barcode is 002 and its price is 77.77
+------------------------------
+SEARCH RESULTS:
+Author of the book1 is Cagan. Its barcode is 003 and its price is 50.99
+------------------------------
+SEARCH RESULTS:
+Item is not found.
+------------------------------
+REMOVE RESULTS:
+Item is not found.
+------------------------------
+INVENTORY:
+Author of the book1 is Cagan. Its barcode is 003 and its price is 50.99
+Author of the AnimalFarm is Orwell. Its barcode is 005 and its price is 109.99
+Color of the toy1 is black. Its barcode is 001 and its price is 66.66
+Color of the Toy2 is white. Its barcode is 002 and its price is 77.77
+Kind of the stationery0 is notebook. Its barcode is 004 and its price is 100.25
+------------------------------
+REMOVE RESULTS:
+Item is removed.
+------------------------------
+INVENTORY:
+Author of the AnimalFarm is Orwell. Its barcode is 005 and its price is 109.99
+Color of the toy1 is black. Its barcode is 001 and its price is 66.66
+Color of the Toy2 is white. Its barcode is 002 and its price is 77.77
+Kind of the stationery0 is notebook. Its barcode is 004 and its price is 100.25
+Kind of the stationery1 is book. Its barcode is 007 and its price is 190.88
+------------------------------
